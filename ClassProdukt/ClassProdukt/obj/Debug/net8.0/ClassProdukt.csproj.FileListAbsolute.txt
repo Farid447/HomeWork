@@ -1,0 +1,14 @@
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\bin\Debug\net8.0\ClassProdukt.exe
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\bin\Debug\net8.0\ClassProdukt.deps.json
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\bin\Debug\net8.0\ClassProdukt.runtimeconfig.json
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\bin\Debug\net8.0\ClassProdukt.dll
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\bin\Debug\net8.0\ClassProdukt.pdb
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\obj\Debug\net8.0\ClassProdukt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\obj\Debug\net8.0\ClassProdukt.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\obj\Debug\net8.0\ClassProdukt.AssemblyInfo.cs
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\obj\Debug\net8.0\ClassProdukt.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\obj\Debug\net8.0\ClassProdukt.dll
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\obj\Debug\net8.0\refint\ClassProdukt.dll
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\obj\Debug\net8.0\ClassProdukt.pdb
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\obj\Debug\net8.0\ClassProdukt.genruntimeconfig.cache
+C:\Users\Farid\Desktop\ClassProdukt\ClassProdukt\obj\Debug\net8.0\ref\ClassProdukt.dll
