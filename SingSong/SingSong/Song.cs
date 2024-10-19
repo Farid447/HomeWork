@@ -43,7 +43,7 @@ internal class Song
             {
                 if (value == "Techno" || value == "Jazz" || value == "Pop" || value == "Rock")
                 {
-                    _name = value;
+                    _genre = value;
                     break;
                 }
                 else

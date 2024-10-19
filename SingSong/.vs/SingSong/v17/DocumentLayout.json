@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\SingSong\\",
+  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\HomeWork\\SingSong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|c:\\users\\farid\\desktop\\singsong\\singsong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|solutionrelative:singsong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|c:\\users\\farid\\desktop\\singsong\\singsong\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|c:\\users\\farid\\desktop\\homework\\singsong\\singsong\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|solutionrelative:singsong\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|c:\\users\\farid\\desktop\\singsong\\singsong\\singer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|c:\\users\\farid\\desktop\\homework\\singsong\\singsong\\singer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|solutionrelative:singsong\\singer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|c:\\users\\farid\\desktop\\homework\\singsong\\singsong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B86759C-FD25-453B-ADF1-AEFD050EFFCE}|SingSong\\SingSong.csproj|solutionrelative:singsong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\SingSong\\SingSong\\Song.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\HomeWork\\SingSong\\SingSong\\Song.cs",
               "RelativeDocumentMoniker": "SingSong\\Song.cs",
-              "ToolTip": "C:\\Users\\Farid\\Desktop\\SingSong\\SingSong\\Song.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\HomeWork\\SingSong\\SingSong\\Song.cs",
               "RelativeToolTip": "SingSong\\Song.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAqwEwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T13:31:43.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Singer.cs",
-              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\SingSong\\SingSong\\Singer.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\HomeWork\\SingSong\\SingSong\\Singer.cs",
               "RelativeDocumentMoniker": "SingSong\\Singer.cs",
-              "ToolTip": "C:\\Users\\Farid\\Desktop\\SingSong\\SingSong\\Singer.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\HomeWork\\SingSong\\SingSong\\Singer.cs",
               "RelativeToolTip": "SingSong\\Singer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T12:57:24.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\SingSong\\SingSong\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\HomeWork\\SingSong\\SingSong\\Program.cs",
               "RelativeDocumentMoniker": "SingSong\\Program.cs",
-              "ToolTip": "C:\\Users\\Farid\\Desktop\\SingSong\\SingSong\\Program.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\HomeWork\\SingSong\\SingSong\\Program.cs",
               "RelativeToolTip": "SingSong\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T12:54:38.449Z",
               "EditorCaption": ""
