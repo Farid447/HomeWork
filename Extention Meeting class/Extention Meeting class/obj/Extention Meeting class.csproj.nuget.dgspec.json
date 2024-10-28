@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Farid\\Desktop\\HomeWork\\IndexerTask\\IndexerTask\\IndexerTask.csproj": {}
+    "C:\\Users\\Farid\\Desktop\\Extention Meeting class\\Extention Meeting class\\Extention Meeting class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Farid\\Desktop\\HomeWork\\IndexerTask\\IndexerTask\\IndexerTask.csproj": {
+    "C:\\Users\\Farid\\Desktop\\Extention Meeting class\\Extention Meeting class\\Extention Meeting class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Farid\\Desktop\\HomeWork\\IndexerTask\\IndexerTask\\IndexerTask.csproj",
-        "projectName": "IndexerTask",
-        "projectPath": "C:\\Users\\Farid\\Desktop\\HomeWork\\IndexerTask\\IndexerTask\\IndexerTask.csproj",
+        "projectUniqueName": "C:\\Users\\Farid\\Desktop\\Extention Meeting class\\Extention Meeting class\\Extention Meeting class.csproj",
+        "projectName": "Extention Meeting class",
+        "projectPath": "C:\\Users\\Farid\\Desktop\\Extention Meeting class\\Extention Meeting class\\Extention Meeting class.csproj",
         "packagesPath": "C:\\Users\\Farid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Farid\\Desktop\\HomeWork\\IndexerTask\\IndexerTask\\obj\\",
+        "outputPath": "C:\\Users\\Farid\\Desktop\\Extention Meeting class\\Extention Meeting class\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
