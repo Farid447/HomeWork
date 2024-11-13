@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Farid\\Desktop\\FileStream\\FileStream\\FileStream.csproj",
+      "projectUniqueName": "C:\\Users\\Farid\\Desktop\\HomeWork\\FileStream\\FileStream\\FileStream.csproj",
       "projectName": "FileStream",
-      "projectPath": "C:\\Users\\Farid\\Desktop\\FileStream\\FileStream\\FileStream.csproj",
+      "projectPath": "C:\\Users\\Farid\\Desktop\\HomeWork\\FileStream\\FileStream\\FileStream.csproj",
       "packagesPath": "C:\\Users\\Farid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Farid\\Desktop\\FileStream\\FileStream\\obj\\",
+      "outputPath": "C:\\Users\\Farid\\Desktop\\HomeWork\\FileStream\\FileStream\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

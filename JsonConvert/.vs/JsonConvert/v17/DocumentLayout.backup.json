@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\JsonConvert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC03827-7CA4-47F6-923E-AF3F89F7445E}|JsonConvert\\JsonConvert.csproj|c:\\users\\farid\\desktop\\jsonconvert\\jsonconvert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC03827-7CA4-47F6-923E-AF3F89F7445E}|JsonConvert\\JsonConvert.csproj|solutionrelative:jsonconvert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\JsonConvert\\JsonConvert\\Program.cs",
+              "RelativeDocumentMoniker": "JsonConvert\\Program.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\JsonConvert\\JsonConvert\\Program.cs",
+              "RelativeToolTip": "JsonConvert\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:56:29.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
