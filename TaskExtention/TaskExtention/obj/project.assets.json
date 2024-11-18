@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Farid\\Desktop\\TaskExtention\\TaskExtention\\TaskExtention.csproj",
+      "projectUniqueName": "C:\\Users\\Farid\\Desktop\\HomeWork\\TaskExtention\\TaskExtention\\TaskExtention.csproj",
       "projectName": "TaskExtention",
-      "projectPath": "C:\\Users\\Farid\\Desktop\\TaskExtention\\TaskExtention\\TaskExtention.csproj",
+      "projectPath": "C:\\Users\\Farid\\Desktop\\HomeWork\\TaskExtention\\TaskExtention\\TaskExtention.csproj",
       "packagesPath": "C:\\Users\\Farid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Farid\\Desktop\\TaskExtention\\TaskExtention\\obj\\",
+      "outputPath": "C:\\Users\\Farid\\Desktop\\HomeWork\\TaskExtention\\TaskExtention\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

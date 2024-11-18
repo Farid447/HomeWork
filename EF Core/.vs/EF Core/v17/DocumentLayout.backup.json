@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\EF Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|c:\\users\\farid\\desktop\\ef core\\ef core\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|solutionrelative:ef core\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|c:\\users\\farid\\desktop\\ef core\\ef core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|solutionrelative:ef core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|c:\\users\\farid\\desktop\\ef core\\ef core\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|solutionrelative:ef core\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|c:\\users\\farid\\desktop\\ef core\\ef core\\models\\baskets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|solutionrelative:ef core\\models\\baskets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|c:\\users\\farid\\desktop\\ef core\\ef core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|solutionrelative:ef core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|c:\\users\\farid\\desktop\\ef core\\ef core\\migrations\\20241117230132_store3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8603D3-F49B-40CB-A5CE-0EF3BC39DDB0}|EF Core\\EF Core.csproj|solutionrelative:ef core\\migrations\\20241117230132_store3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "EF Core\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Models\\Users.cs",
+              "RelativeToolTip": "EF Core\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:26:49.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "EF Core\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Models\\Products.cs",
+              "RelativeToolTip": "EF Core\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:26:48.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Baskets.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Models\\Baskets.cs",
+              "RelativeDocumentMoniker": "EF Core\\Models\\Baskets.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Models\\Baskets.cs",
+              "RelativeToolTip": "EF Core\\Models\\Baskets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:26:47.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241117230132_Store3.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Migrations\\20241117230132_Store3.cs",
+              "RelativeDocumentMoniker": "EF Core\\Migrations\\20241117230132_Store3.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Migrations\\20241117230132_Store3.cs",
+              "RelativeToolTip": "EF Core\\Migrations\\20241117230132_Store3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:01:33.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "EF Core\\Context\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Context\\DBContext.cs",
+              "RelativeToolTip": "EF Core\\Context\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:21:28.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Program.cs",
+              "RelativeDocumentMoniker": "EF Core\\Program.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\EF Core\\EF Core\\Program.cs",
+              "RelativeToolTip": "EF Core\\Program.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAL8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:07:05.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
